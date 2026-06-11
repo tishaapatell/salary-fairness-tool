@@ -1,4 +1,4 @@
-Live Link : https://salary-fairness-tool-5pe5skm3q5coigdmcta4ht.streamlit.app
+Link : https://salary-fairness-tool-5pe5skm3q5coigdmcta4ht.streamlit.app
 
 # Is This Salary Fair? — US Pay Transparency Tool
 
