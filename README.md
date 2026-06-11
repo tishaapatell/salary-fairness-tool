@@ -9,6 +9,7 @@ explanations and negotiation talking points — all grounded in official data.
 **Live demo:** https://salary-fairness-tool-5pe5skm3q5coigdmcta4ht.streamlit.app
 
 **Tools:** Python, Streamlit, Plotly, pandas, Anthropic API
+
 **Data:** US Bureau of Labor Statistics (OEWS) + Bureau of Economic Analysis (RPP)
 
 ## Run locally
