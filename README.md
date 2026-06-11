@@ -1,4 +1,3 @@
-Link : https://salary-fairness-tool-5pe5skm3q5coigdmcta4ht.streamlit.app
 
 # Is This Salary Fair? — US Pay Transparency Tool
 
@@ -7,7 +6,7 @@ Pick any job + state to see real wage percentiles (BLS), a cost-of-living-adjust
 "best states" ranking (BEA), a US wage map, and AI-generated plain-English
 explanations and negotiation talking points — all grounded in official data.
 
-**Live demo:** [link after deploy]
+**Live demo:** https://salary-fairness-tool-5pe5skm3q5coigdmcta4ht.streamlit.app
 
 **Tools:** Python, Streamlit, Plotly, pandas, Anthropic API
 **Data:** US Bureau of Labor Statistics (OEWS) + Bureau of Economic Analysis (RPP)
